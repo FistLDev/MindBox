@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2d3dd618_002Dd856_002D4867_002D9b88_002Dcfb7d85df997/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::BBFFEE9B-1600-4DE7-B770-8DA77AF84D9A::net6.0::CircleTriangleAreaCoreUnitTests.UnitTests.GetTriangleArea_Success&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::BBFFEE9B-1600-4DE7-B770-8DA77AF84D9A::net6.0::CircleTriangleAreaCoreUnitTests.UnitTests.GetArea_NotExpectedShapeType_Failed&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::BBFFEE9B-1600-4DE7-B770-8DA77AF84D9A::net6.0::CircleTriangleAreaCoreUnitTests.UnitTests.GetRectangularTriangleArea_Success&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8f4d0b74_002D0abd_002D4664_002Daaba_002Dc48702936ed1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetRectangularTriangleArea_Success" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::BBFFEE9B-1600-4DE7-B770-8DA77AF84D9A::net6.0::CircleTriangleAreaCoreUnitTests.UnitTests.GetRectangularTriangleArea_Success&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

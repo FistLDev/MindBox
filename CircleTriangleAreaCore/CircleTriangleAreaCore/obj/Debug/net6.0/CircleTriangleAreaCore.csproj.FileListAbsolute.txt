@@ -1,0 +1,12 @@
+/Users/alsimonenkov/Projects/MindBox/CircleTriangleAreaCore/CircleTriangleAreaCore/bin/Debug/net6.0/CircleTriangleAreaCore.deps.json
+/Users/alsimonenkov/Projects/MindBox/CircleTriangleAreaCore/CircleTriangleAreaCore/bin/Debug/net6.0/CircleTriangleAreaCore.dll
+/Users/alsimonenkov/Projects/MindBox/CircleTriangleAreaCore/CircleTriangleAreaCore/bin/Debug/net6.0/CircleTriangleAreaCore.pdb
+/Users/alsimonenkov/Projects/MindBox/CircleTriangleAreaCore/CircleTriangleAreaCore/obj/Debug/net6.0/CircleTriangleAreaCore.csproj.AssemblyReference.cache
+/Users/alsimonenkov/Projects/MindBox/CircleTriangleAreaCore/CircleTriangleAreaCore/obj/Debug/net6.0/CircleTriangleAreaCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alsimonenkov/Projects/MindBox/CircleTriangleAreaCore/CircleTriangleAreaCore/obj/Debug/net6.0/CircleTriangleAreaCore.AssemblyInfoInputs.cache
+/Users/alsimonenkov/Projects/MindBox/CircleTriangleAreaCore/CircleTriangleAreaCore/obj/Debug/net6.0/CircleTriangleAreaCore.AssemblyInfo.cs
+/Users/alsimonenkov/Projects/MindBox/CircleTriangleAreaCore/CircleTriangleAreaCore/obj/Debug/net6.0/CircleTriangleAreaCore.csproj.CoreCompileInputs.cache
+/Users/alsimonenkov/Projects/MindBox/CircleTriangleAreaCore/CircleTriangleAreaCore/obj/Debug/net6.0/CircleTriangleAreaCore.dll
+/Users/alsimonenkov/Projects/MindBox/CircleTriangleAreaCore/CircleTriangleAreaCore/obj/Debug/net6.0/refint/CircleTriangleAreaCore.dll
+/Users/alsimonenkov/Projects/MindBox/CircleTriangleAreaCore/CircleTriangleAreaCore/obj/Debug/net6.0/CircleTriangleAreaCore.pdb
+/Users/alsimonenkov/Projects/MindBox/CircleTriangleAreaCore/CircleTriangleAreaCore/obj/Debug/net6.0/ref/CircleTriangleAreaCore.dll
